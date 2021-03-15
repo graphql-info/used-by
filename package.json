@@ -1,6 +1,6 @@
 {
   "name": "@graphql-info/used-by",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds used-by section to non-queries",
   "main": "src/index.js",
   "scripts": {
