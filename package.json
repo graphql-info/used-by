@@ -1,0 +1,28 @@
+{
+  "name": "@graphql-info/used-by",
+  "version": "0.0.1",
+  "description": "Adds used-by section to non-queries",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL",
+    "documentation",
+    "graphql-info"
+  ],
+  "dependencies": {
+    "@popeindustries/lit-html-server": "^3.1.0",
+    "graphql": "^15.5.0"
+  },
+  "peerDependencies": {
+    "@graphql-info/core": "^0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "author": "Ilya Volodin",
+  "license": "MIT"
+}
