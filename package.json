@@ -1,11 +1,10 @@
 {
   "name": "@graphql-info/used-by",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Adds used-by section to non-queries",
   "main": "src/index.js",
   "scripts": {
-    "lint": "eslint .",
-    "publish": "np"
+    "lint": "eslint ."
   },
   "keywords": [
     "GraphQL",
@@ -21,8 +20,7 @@
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
-    "np": "^7.4.0"
+    "eslint-plugin-import": "^2.22.1"
   },
   "author": "Ilya Volodin",
   "license": "MIT"
